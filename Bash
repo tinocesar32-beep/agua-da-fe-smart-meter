@@ -1,0 +1,7 @@
+cd agua-da-fe-pwa
+git init
+git add .
+git commit -m "Água da Fé Smart Meter"
+git branch -M main
+git remote add origin https://github.com/SEU-UTILIZADOR/agua-da-fe-smart-meter.git
+git push -u origin main
